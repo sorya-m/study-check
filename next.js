@@ -12,6 +12,7 @@ Routing:
 pages/index.js
 pages/blog.js
 
+Nested Routing:
 
 pages/blog/first.js
 pages/blog/second.js
